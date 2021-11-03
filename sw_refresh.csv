@@ -1,0 +1,36 @@
+Condition;Name;Network Address;Manufacturer;Model Class;MAC Address;Type
+Normal;RCE-SW-A-LCP-02;10.44.108.72;Cisco;Switch;28:93:fe:64:82:c1;Cat2960-24TT
+Normal;MOR-SW-CPD-179;10.40.100.179;Cisco;Switch;00:1e:49:86:16:41;Cat2960-24TT
+Normal;RCE-SW-A-LCP-01;10.44.108.66;Cisco;Switch;ec:30:91:fd:ae:c1;Cat2960-24TT
+Normal;BRE-SW-A-BCO-05.bvnet.bv;10.41.9.249;Cisco;Switch;ec:c8:82:44:90:c1;Cat 2960 24PC
+Minor;BRE-SW-A-BCO-06.bvnet.bv;10.41.9.248;Cisco;Switch;ec:c8:82:4e:e2:c1;Cat 2960 24PC
+Maintenance;MNS-SW-A-LCP-01;10.44.122.202;Cisco;Switch;00:1e:49:fe:b2:41;Cat2960-24TT
+Normal;M-SW-A-CO-11-114.bvnet.bv;10.33.39.114;Cisco;Switch;00:24:f7:a0:48:c2;Cat2960-48TT
+Maintenance;BHE-SW-A-LCP-01;10.44.103.66;Cisco;Switch;1c:17:d3:9f:b9:c1;Cat2960-24TT
+Normal;BSA-SW-A-BVF-02;10.44.17.253;Cisco;Switch;6c:50:4d:28:23:c1;Cat2960-48TT
+Minor;M-SW-A-OoB-11-E8-12;10.36.128.12;Cisco;Switch;9c:af:ca:fa:27:41;Cat2960-48TT
+Minor;MOR-SW-CPD-33P;10.40.100.33;Cisco;Switch;08:1f:f3:ba:45:41;Cat 2960 24PC
+Minor;BRE-SW-IPC-BCO-04;10.41.9.250;Cisco;Switch;58:bc:27:cb:fc:41;Cat 2960 24PC
+Normal;BLM-SW-A-BVF-01;10.44.5.252;Cisco;Switch;3c:df:1e:c2:ee:c1;Cat2960-24TT
+Maintenance;CTA-SW-A-LCP-01;10.44.100.66;Cisco;Switch;58:bc:27:72:25:c1;Cat2960-24TT
+Normal;M-SW-A-OoB-11-A6-13;10.36.128.13;Cisco;Switch;30:37:a6:5a:02:c1;Cat2960-48TT
+Maintenance;CPE-SW-A-LCP-01;10.44.109.130;Cisco;Switch;00:1e:49:e0:98:41;Cat2960-24TT
+Maintenance;CPE-SW-A-LCP-02;10.44.109.133;Cisco;Switch;1c:17:d3:b6:b1:41;Cat2960-24TT
+Maintenance;MNS-SW-A-LCP-02;10.44.122.204;Cisco;Switch;00:21:1b:bb:dd:c1;Cat2960-24TT
+Normal;MOR-SW-CPD-218;10.40.100.218;Cisco;Switch;00:1d:71:ad:d2:41;Cat2960-24TT
+Normal;E3-SW-A-CAM-2-305-103.bvnet.bv;10.36.133.103;Cisco;Switch;58:bc:27:45:c4:41;Cat 2960 24PC
+Normal;RJO-SW-A-LCP-01;10.44.100.138;Cisco;Switch;00:1d:e5:27:d8:c2;Cat2960-24TT
+Maintenance;CTA-SW-A-LCP-02;10.44.100.72;Cisco;Switch;64:16:8d:2a:68:41;Cat2960-24TT
+Maintenance;VTA-SW-A-LCP-01;10.44.104.2;Cisco;Switch;1c:17:d3:9f:ed:c1;Cat2960-24TT
+Normal;BLM-SW-A-BVF-02;10.44.5.253;Cisco;Switch;58:bc:27:72:b7:c1;Cat2960-24TT
+Normal;BSA-SW-A-BVF-01;10.44.17.254;Cisco;Switch;6c:50:4d:28:5d:41;Cat2960-48TT
+Minor;MOR-SW-CO-A-DC-ACECO-1;10.40.100.77;Cisco;Switch;3c:df:1e:c0:6f:c1;Cat2960-24TT
+Maintenance;BHE-SW-A-LCP-02;10.44.103.72;Cisco;Switch;00:1d:a1:0d:94:c1;Cat2960-24TT
+Normal;BRE-SW-A-BCO-02;10.41.9.253;Cisco;Switch;00:64:40:98:db:c1;Cat2960-48TT
+Maintenance;LOCO-SW-A-LCP-01;10.44.125.10;Cisco;Switch;00:1d:71:8b:7a:c1;Cisco 2960-24TT
+Normal;BRE-SW-A-BCO-01;10.41.9.254;Cisco;Switch;00:1e:49:82:c9:41;Cat2960-24TT
+Maintenance;M-SW-A-WL-17-25;10.32.16.25;Cisco;Switch;00:7e:95:77:a7:41;Cat 2960 24PC
+Normal;BRE-SW-A-BCO-03;10.41.9.252;Cisco;Switch;d0:57:4c:d8:c6:c1;Cat2960-48TT
+Normal;RJO-SW-A-LCP-02;10.44.100.133;Cisco;Switch;64:16:8d:6b:ae:41;Cat2960-24TT
+Maintenance;LOCO-SW-A-LCP-02;10.44.125.9;Cisco;Switch;00:19:e8:05:5c:41;Cisco 2960-24TT
+Maintenance;M-SW-A-WL-17-26;10.32.16.26;Cisco;Switch;00:b6:70:7c:18:c1;Cat 2960 24PC
